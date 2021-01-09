@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I am currently studying in Seneca College and I'm currently in the Computer Programming and Analysis program (CPA). I'm currently on my second semester and once I finish, I am looking forward to finishing my degree at a university!
 
 I play a lot of video games, guitar, and I skateboard from time to time.
+
+Ask me anything about laziness, I can probably answer that for ya!
