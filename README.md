@@ -5,6 +5,15 @@
 
 Here are some ideas to get you started:
 
+IDEAS
+**
+I am currently studying in Seneca College and I'm currently in the Computer Programming and Analysis program (CPA). I'm currently on my second semester and once I finish, I am looking forward to finishing my degree at a university!
+
+I play a lot of video games, guitar, and I skateboard from time to time.
+
+Ask me anything about laziness, I can probably answer that for ya!
+**
+
 - 🔭 I’m currently working on making an application for nWHacks
 - 🌱 I’m currently learning how to make applications using Unity.
 - 👯 I’m looking to collaborate on creating small projects
@@ -15,8 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I really like boba lol.
 -->
 
-I am currently studying in Seneca College and I'm currently in the Computer Programming and Analysis program (CPA). I'm currently on my second semester and once I finish, I am looking forward to finishing my degree at a university!
-
-I play a lot of video games, guitar, and I skateboard from time to time.
-
-Ask me anything about laziness, I can probably answer that for ya!
+yo yo yo
